@@ -1,5 +1,5 @@
 ### Hi there I'm [Usman!](https://usmanwahyu.site)👋
-I'm Akhil G Krishnan, a 24-years old technical enthusiast who does web development using Javascript<br>
+I'm Muhammad Usman, a 24-years old technical enthusiast who does web development using Javascript<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/usmanwahyuhp) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/)
 <!--
